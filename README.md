@@ -1,3 +1,17 @@
+# Reference
+
+## Paper
+
+ACDC: Online Unsupervised Cross-Domain Adaptation
+
+[ArXiv]()
+
+## Bibtex
+
+```
+TODO
+```
+
 # Welcome to ACDC!
 
 This is a framework aiming autonomously cross-domain conversion (ACDC) which handles fitting/training and concept drifts with a complete self-evolving structure, achieving domain adaptation via a domain-adversarial classifier module, all without the need for hyper-parameter tunability.
