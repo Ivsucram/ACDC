@@ -4,12 +4,19 @@
 
 ACDC: Online Unsupervised Cross-Domain Adaptation
 
-[ArXiv]()
+[ArXiv](https://arxiv.org/abs/2110.01326)
 
 ## Bibtex
 
 ```
-TODO
+@misc{decarvalho2021acdc,
+      title={ACDC: Online Unsupervised Cross-Domain Adaptation}, 
+      author={Marcus de Carvalho and Mahardhika Pratama and Jie Zhang and Edward Yapp},
+      year={2021},
+      eprint={2110.01326},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
 
 # Welcome to ACDC!
