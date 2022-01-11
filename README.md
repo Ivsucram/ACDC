@@ -90,7 +90,7 @@ python -c "import ACDC as acdc; acdc.pre_download_benchmarks()"
 ```
 
 # Running ACDC
-After setup your environment, just run `python ACDC.pyc`. The script will print a list of commands for you.
+After setup your environment, just run `python ACDC.py`. The script will print a list of commands for you.
 
 ## Example: Running ACDC with USPS --> MNIST experiment
 
